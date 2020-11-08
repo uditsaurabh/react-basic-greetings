@@ -1,0 +1,34 @@
+{
+  "name": "react-basic-greetings",
+  "version": "1.0.0",
+  "description": "basic greetings description",
+  "main": "index.js",
+  "scripts": {
+    "lint":"eslint src/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uditsaurabh/react-basic-greetings.git"
+  },
+  "keywords": [
+    "react",
+    "greetings"
+  ],
+  "author": "Udit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uditsaurabh/react-basic-greetings/issues"
+  },
+  "homepage": "https://github.com/uditsaurabh/react-basic-greetings#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-standard": "^16.0.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.5",
+    "prettier-eslint": "^11.0.0",
+    "prettier-eslint-cli": "^5.0.0"
+  }
+}
